@@ -1,2 +1,2 @@
-# SIMS
-Projekat iz predmeta Specifikacija i modelovanje softvera: Generički instaler
+
+Projekat iz predmeta Osnovi informacionih sistema i softverskog inzenjerstva: Generički instaler
