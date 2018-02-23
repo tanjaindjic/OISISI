@@ -1,2 +1,2 @@
-# OISISI
-Projekat iz predmeta Osnovi informacionih sistema i softverskog inzenjerstva
+# SIMS
+Projekat iz predmeta Specifikacija i modelovanje softvera: Generički rukovalac dokumentima
